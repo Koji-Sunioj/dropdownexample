@@ -1,0 +1,17 @@
+header {
+  background-color: blue;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+nav {
+  position: absolute;
+  background-color: pink;
+}
+
+nav ul  {
+  list-style: none;
+  padding: 10px;
+  margin: 0px;
+}
